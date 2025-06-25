@@ -1,4 +1,11 @@
-## Hi there 👋
+# Dojo Smoke
+
+## Community / Updates
+- Instagram
+- X
+- Mastodon
+- Nostr
+## Direct Contact
 
 <!--
 **Dojo-Smoke/Dojo-Smoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
